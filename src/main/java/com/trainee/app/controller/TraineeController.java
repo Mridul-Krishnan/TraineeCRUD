@@ -25,6 +25,7 @@ import com.trainee.app.service.TraineeServiceImpl;
  * @author Mri scan
  *
  */
+//cool stuff
 @RestController
 @RequestMapping("/trainee")
 public class TraineeController { //http://localhost:8080/trainee/getTrainee/1001
